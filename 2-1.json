@@ -106,7 +106,7 @@
       "type": 3,
       "api": "csp_Hudie",
       "playerType": 2,
-      "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
+      "ext": "eaHR0cHM6Ly9kLmRjbW92faWUudG9w"
     },
     {
       "key": "农民影视",
@@ -1075,3 +1075,4 @@
     "api.htpan.net"
   ]
 }
+
