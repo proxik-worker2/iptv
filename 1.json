@@ -11,7 +11,7 @@
     },
     {
       "key": "公告",
-      "name": "记得关注公众号避免失联",
+      "name": "记得关注公众号避免失联",f
       "type": 3,
       "api": "csp_DouBan",
       "searchable": 0
@@ -912,3 +912,4 @@
     "static-mozai.4gtv.tv"
   ]
 }
+
