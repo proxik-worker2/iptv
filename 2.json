@@ -27,7 +27,7 @@
         },
 {
             "key": "榴莲4k",
-            "name": "榴莲｜4k",
+            "name": "榴莲｜f4k",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet2",
@@ -1028,4 +1028,5 @@
         }
     ]
    }  
+
 
