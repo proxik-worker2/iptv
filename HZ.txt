@@ -3,7 +3,7 @@ CCTV1,http://111.193.236.37:4022/rtp/239.3.1.129:8008
 CCTV2,http://111.193.236.37:4022/rtp/239.3.1.60:8084
 CCTV3,http://111.193.236.37:4022/rtp/239.3.1.172:8001
 CCTV4,http://111.193.236.37:4022/rtp/239.3.1.105:8092
-CCTV4EUO,http://111.193.236.37:4022/rtp/239.3.1.213:4220
+CCTV4EUO,http://111.193.236.37:4022/rtp/239.3.1.213:4f220
 CCTV4AME,http://111.193.236.37:4022/rtp/239.3.1.214:4220
 CCTV5,http://111.193.236.37:4022/rtp/239.3.1.173:8001
 CCTV5+,http://111.193.236.37:4022/rtp/239.3.1.130:8004
@@ -11452,3 +11452,4 @@ MEZZO LIVE,http://litv.zapi.us.kg/?id=4gtv-4gtv083
 Smart知识台,http://litv.zapi.us.kg/?id=litv-longturn19
 生活英语台,http://litv.zapi.us.kg/?id=litv-longturn20
 龙华经典,http://litv.zapi.us.kg/?id=litv-longturn21
+
